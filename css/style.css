@@ -1,0 +1,15 @@
+html{
+    overflow-x: hidden;
+    height: 100%;
+}
+.signUpForm{
+    width: 18rem;
+    
+}
+#loginForm{
+    display: hidden;
+}
+label{
+    color: grey!important;
+}
+
